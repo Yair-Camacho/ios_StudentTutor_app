@@ -15,7 +15,7 @@ RESOURCES:
            APPCODA - Textbook written by Simon Ng - Beginning iOS 13 Programming
            with Swift (Chapter 5 - Introduction to Auto Layout & Chapter 6 - Designing UI using Stack Views).
  
-DATE:      08/04/2020
+DATE:      08/03/2020
  
  
  
